@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Overview of Intel® Distribution of OpenVINO™ Toolkit
 
-You can use the [editor on GitHub](https://github.com/vanessa-jml/OpenVINO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+AI inference applies capabilities learned after training a neural network to yield results. The Intel® Distribution of OpenVINO™ toolkit enables you to optimize, tune, and run comprehensive AI inference using the included model optimizer and runtime and development tools.
 
 ### Markdown
 
