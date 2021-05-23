@@ -4,34 +4,16 @@ AI inference applies capabilities learned after training a neural network to yie
 
 ![Image of OpenVino](https://software.intel.com/content/dam/develop/public/us/en/images/diagrams-infographics/diagram-v1openvino-homepage-16x9.png)
 
-### Markdown
+## Discover the Capabilities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### High Performance, Deep Learning
 
-```markdown
-Syntax highlighted code block
+Convert and optimize models to achieve high performance for deep-learning inference applications.
 
-# Header 1
-## Header 2
-### Header 3
+### Streamlined Development
 
-- Bulleted
-- List
+Facilitate a smoother development process using the included inference tools for low-precision optimization and media processing, computer vision libraries, and preoptimized kernels.
 
-1. Numbered
-2. List
+### Write Once, Deploy Anywhere
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vanessa-jml/OpenVINO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Deploy your same application across combinations of host processors, accelerators, and environments, including CPUs, GPUs, VPUs, FPGAs, on-premise and on-device, and in the browser or in the cloud.
