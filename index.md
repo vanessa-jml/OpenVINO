@@ -2,6 +2,8 @@
 
 AI inference applies capabilities learned after training a neural network to yield results. The [Intel® Distribution of OpenVINO™ toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) enables you to optimize, tune, and run comprehensive AI inference using the included model optimizer and runtime and development tools.
 
+![Image of OpenVino](https://software.intel.com/content/dam/develop/public/us/en/images/diagrams-infographics/diagram-v1openvino-homepage-16x9.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
